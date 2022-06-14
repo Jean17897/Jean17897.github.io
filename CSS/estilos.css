@@ -414,7 +414,7 @@ body{
 }
 
 .footer__iconsconts{
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 
 .footer__img{
@@ -422,7 +422,7 @@ body{
 }
 
 .footer__imgconts{
-    width: 150px;
+    width: 110px;
 }
 
 /* Media queries */
