@@ -1,14 +1,22 @@
+body{
+  background-image: url('../Imagenes/rdimage1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+
+}
 .tuclase {text-align: left; 
-  font-family: Arial; 
+  justify-content: space-between;
+  font-family: Arial;
   font-size: 30px; 
-  COLOR: #1278BF; 
-  text-shadow: 0px 0px 9px #508AD3;
+  COLOR: #07d645; 
+  text-shadow: 0px 0px 9px #02ff39;
   }
 
 .word-waves span{
   position: absolute;
   color: rgb(0, 0, 0);
-  font-size: 3rem;
+  font-size: 5rem;
   transform: translate(-50%,-50%);
 } 
 
